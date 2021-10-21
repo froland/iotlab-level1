@@ -9,3 +9,8 @@ Formation Arduino, Raspberry Pi et ESP8266
 3. [Brochage ESP8266](D1_Mini_Pinout_Diagram.pdf)
 4. [Installer la librairie Adafruit MQTT](adafruit_mqtt.md)
 
+### Démo : servomoteur piloté par MQTT
+
+[Code Arduino mqtt_servo/mqtt_servo.ino](mqtt_servo/mqtt_servo.ino)
+
+Requiert un serveur MQTT.
